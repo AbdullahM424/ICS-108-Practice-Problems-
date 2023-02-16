@@ -19,7 +19,7 @@ public class HighScore {
                 highName=name;
             }
         }
-
+       System.out.print("The name of highest score is "+highName+" and the score is "+highScore);
         
     }
 }
